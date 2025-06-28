@@ -3,13 +3,9 @@
 
 - 🔭 I’m currently working on **United Colleges group**
 
-- 👨‍💻 My profile in LinkedIn is **https://www.linkedin.com/in/marjan-haghighatdoost-6b9938246?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BD7c5JGFsSSm427Sho%2B0i1g%3D%3D**
-
 - 👯 I’m looking to collaborate on **Software development**
 
 - 🌱 I’m currently learning **Java and Javascript**
-
-- 📄 Know about my experiences **https://www.linkedin.com/in/marjan-haghighatdoost-6b9938246?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BD7c5JGFsSSm427Sho%2B0i1g%3D%3D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
