@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marjan</h1>
 <h3 align="center">Computer Science University Student in London</h3>
 
-- 🔭 I’m currently working on **United Colleges group**
+- 🔭 I’m currently working at **United Colleges group**
 
 - 👯 I’m looking to collaborate on **Software development**
 
