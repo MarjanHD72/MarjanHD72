@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Software development**
 
-- 🌱 I’m currently learning **Java and Javascript**
+- 🌱 I’m currently learning **Java and Nodejs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
