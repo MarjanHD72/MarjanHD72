@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marjan</h1>
-<h3 align="center">Computer Science University Student in London</h3>
+<h3 align="center">Computer Science Student at Middlesex University of London</h3>
 
 - 🔭 I’m currently working at **United Colleges group**
 
