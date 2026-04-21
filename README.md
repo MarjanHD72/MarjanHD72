@@ -42,11 +42,14 @@
 
 ## 📌 Featured Projects
 
+🗳️ **PersianBits Voting System**  
+A full-stack voting platform supporting multiple voting types including single-choice, multi-choice, and ranked voting (Borda Count).  
+Built with a focus on performance, efficient data structures, and real-time vote aggregation.
+
 🚀 **Heal Appointment System**  
 Full-stack system with authentication, MongoDB integration, and booking features.
 
-🎮 **Hangman Game**  
-Interactive JavaScript game with dynamic UI.
+
 
 ---
 
