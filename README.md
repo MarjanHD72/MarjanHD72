@@ -53,7 +53,7 @@ Interactive JavaScript game with dynamic UI.
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="www.linkedin.com/in/marjan-haghighatdoost">
+<a href="https://www.linkedin.com/in/marjan-haghighatdoost">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
