@@ -1,43 +1,32 @@
-<h1 align="center">Hey 👋 I'm Marjan</h1>
-<h3 align="center">Building real systems, not just projects</h3>
+<h1 align="center">Hi 👋 I'm Marjan</h1>
+<h3 align="center">Computer Science Student | Future Software Engineer</h3>
+
+---
 
 <p align="center">
-🎓 Computer Science Student • 👩‍🏫 Computing Lecturer • 💻 Developer
+💻 Passionate about building real-world web applications <br/>
+🎓 Middlesex University London <br/>
+👩‍🏫 Computing Lecturer at United Colleges Group
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m focused on building real-world systems with clean logic and efficient performance.  
-I enjoy turning complex ideas into simple, working solutions.
-
-- 🧠 Interested in full-stack development  
-- ⚡ Care about performance & structure  
-- 🎯 Currently building real-world applications  
+- 🔭 Currently working on: **Heal Appointment System**
+- 🌱 Learning: **Node.js, MongoDB, DevOps**
+- 💡 Interested in: **Full-stack development & real-world systems**
+- 🤝 Open to: **Collaboration & Software opportunities**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,cs,git,github,vscode" />
+
 </p>
-
----
-
-## 🗳️ Featured Project
-
-### PersianBits Voting System
-
-A scalable voting platform supporting multiple voting methods:
-
-- Single choice, multi choice  
-- Rating system  
-- Ranked voting (Borda Count)
-
-⚡ Optimized vote processing from **O(n·k) → O(n)**  
-🧠 Built with custom data structures and clean architecture  
 
 ---
 
@@ -51,6 +40,19 @@ A scalable voting platform supporting multiple voting methods:
 
 ---
 
+## 📌 Featured Projects
+
+🗳️ **PersianBits Voting System**  
+A full-stack voting platform supporting multiple voting types including single-choice, multi-choice, and ranked voting (Borda Count).  
+Built with a focus on performance, efficient data structures, and real-time vote aggregation.
+
+🚀 **Heal Appointment System**  
+Full-stack system with authentication, MongoDB integration, and booking features.
+
+
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -58,3 +60,9 @@ A scalable voting platform supporting multiple voting methods:
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy turning ideas into real working systems ✨
