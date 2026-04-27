@@ -6,7 +6,7 @@
 <p align="center">
 💻 Passionate about building real-world web applications <br/>
 🎓 Middlesex University London <br/>
-👩‍🏫 Computing Lecturer at United Colleges Group
+👩🏻‍💻 Computing Lecturer at United Colleges Group
 </p>
 
 ---
